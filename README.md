@@ -25,6 +25,10 @@
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+<p align="center">
+<a href="https://insomnia.rest/run/?label=Transaction%20EndPoints&uri=https%3A%2F%2Fgithub.com%2Fmpgxc%2FGoStack.12-typeorm-upload%2Fblob%2Fmaster%2FInsomnia_transactions.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+
+</p>
 
 ## :rocket: Sobre o desafio
 
