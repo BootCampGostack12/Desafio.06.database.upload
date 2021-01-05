@@ -24,6 +24,8 @@
     "prettier"
   ],
   "rules": {
+    "import/prefer-default-export": "off",
+    "@typescript-eslint/interface-name-prefix": "off",
     "no-underscore-dangle": "off",
     "prettier/prettier": "error",
     "class-methods-use-this": "off",

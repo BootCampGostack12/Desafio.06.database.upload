@@ -5,9 +5,13 @@
   "username": "postgres",
   "password": "docker",
   "database": "gostack_desafio06",
-  "entities": ["./src/models/*.ts"],
-  "migrations": ["./src/database/migrations/*.ts"],
+  "entities": [
+    "./src/domain/models/*.ts"
+  ],
+  "migrations": [
+    "./src/infra/database/migrations/*.ts"
+  ],
   "cli": {
-    "migrationsDir": "./src/database/migrations"
+    "migrationsDir": "./src/infra/database/migrations"
   }
 }
